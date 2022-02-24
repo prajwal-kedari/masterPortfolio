@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="cente"> 
     <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
 </p>
 
